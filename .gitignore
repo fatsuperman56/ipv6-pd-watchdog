@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+
+# 本地运行产生的文件（不要提交）
+*.xml
+*.log
+.zte_pwd
+.ipv6_guard_state.json
+.ipv6_guard.lock
+.gw_pwd
